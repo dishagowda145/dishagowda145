@@ -158,17 +158,21 @@ Disha A
 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishagowda145&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishagowda145&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+  <a href="https://github.com/dishagowda145">
+    <img src="https://github-readme-stats.vercel.app/api?username=dishagowda145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=false" height="180"/>
+  </a>
+  <a href="https://github.com/dishagowda145">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishagowda145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="180"/>
+  </a>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=dishagowda145&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA" />
+  <img src="https://streak-stats.demolab.com/?user=dishagowda145&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9CA3AF" width="70%"/>
 </p>---
 
 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishagowda145&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=A78BFA" width="100%"/>
-</p>---
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishagowda145&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+</p>
 
 ✦ Inspiration
 
