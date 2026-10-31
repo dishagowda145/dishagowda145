@@ -1,207 +1,174 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Disha%20A&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=61&gradient=4361EE,7B2CBF" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+intelligent+solutions+with+AI+%26+Python;Turning+ideas+into+practical+software+experiences" alt="AI & Python"/><br><br>
+👩‍💻 DISHA A
 
-<a href="https://github.com/dishagowda145">
-<img src="https://img.shields.io/badge/GitHub-dishagowda145-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a> 
+Aspiring Software Engineer | C • Linux • Computer Networking • Python
 
-<a href="mailto:dishagowda145@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a></div>---
-
-🔗 Connect With Me
-
-<table align="center">
-<tr><td align="center">
-<a href="https://www.linkedin.com/in/disha-a-85b92934b/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn"/><br>
-<b>LinkedIn</b>
-</a>
-</td><td align="center">
-<a href="https://github.com/dishagowda145">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/><br>
-<b>GitHub</b>
-</a>
-</td><td align="center">
-<a href="mailto:dishagowda145@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/><br>
-<b>Email</b>
-</a>
-</td><td align="center">
-<a href="https://www.instagram.com/diisshaaaaaaa/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/><br>
-<b>Instagram</b>
-</a>
-</td><td align="center">
-<a href="./Disha_Resume.pdf">
-<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/><br>
-<b>Resume</b>
-</a>
-</td></tr>
-</table>---
-
-⚡ Tech Stack
-
-🤖 GenAI / LLMs
-
-<div align="center"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/><br><br>
-
-<b>OpenAI</b>   •   <b>Gemini</b>
-
-</div>💻 Languages
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br>
-<b>Python</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br>
-<b>JavaScript</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br>
-<b>HTML5</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br>
-<b>CSS3</b>
-</td></tr>
-</table>🧠 AI & Machine Learning
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55" height="55" alt="Scikit-learn"/><br>
-<b>Scikit-learn</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/><br>
-<b>OpenCV</b>
-</td><td align="center">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="NLP"/><br>
-<b>NLP</b>
-</td></tr>
-</table><div align="center">"SVM" • "Logistic Regression" • "Random Forest" • "Decision Tree" • "KNN"
-
-</div>📊 Data Science
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/><br>
-<b>NumPy</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/><br>
-<b>Pandas</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/><br>
-<b>Matplotlib</b>
-</td><td align="center">
-<img src="https://cdn.simpleicons.org/nltk/154F5B" width="55" height="55" alt="NLTK"/><br>
-<b>NLTK</b>
-</td></tr>
-</table><div align="center">"TF-IDF" • "VADER" • "Tweepy"
-
-</div>🌐 Web & App Development
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br>
-<b>React.js</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55" alt="Django"/><br>
-<b>Django</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/><br>
-<b>Flask</b>
-</td></tr>
-</table>☁️ Cloud & Infrastructure
-
-<div align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="55" height="55" alt="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/><br><br>
-
-<b>Git</b>   •   <b>GitHub</b>   •   <b>Application Deployment</b>
-
-</div>🗄️ Databases
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br>
-<b>MySQL</b>
-</td></tr>
-</table>🛠️ Dev Tools
-
-<table align="center">
-<tr><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br>
-<b>VS Code</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/><br>
-<b>Jupyter</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br>
-<b>Git</b>
-</td><td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br>
-<b>GitHub</b>
-</td></tr>
-</table>---
-
-📊 GitHub Analytics
-
-<div align="center"><table>
-<tr><td align="center" width="220">🟣 Profile
-
-GitHub
-
-"@dishagowda145" (https://github.com/dishagowda145)
-
-</td><td align="center" width="220">🔵 Activity
-
-Contributions
-
-Visible directly on the GitHub profile
-
-</td><td align="center" width="220">🟣 Repositories
-
-Open Source
-
-Explore my repositories
-
-</td></tr>
-</table></div><p align="center">
-<a href="https://github.com/dishagowda145?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Reliable+Software+Systems;Exploring+Linux+and+System+Programming;Learning+Computer+Networking;Turning+Logic+Into+Working+Solutions" />
+</p><p align="center">
+  <a href="https://github.com/dishagowda145">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/disha-a-85b92934b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dishagowda145@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>---
 
-📈 Contribution Activity
+👋 About Me
 
-<div align="center"><a href="https://github.com/dishagowda145">
-<img src="https://img.shields.io/badge/Contribution%20Activity-View%20on%20GitHub-4361EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contribution Activity"/>
-</a><br><br>
+I am a BCA graduate from Bengaluru, India, interested in software engineering, system programming, and computer networking.
 
-<i>Your contribution calendar is displayed natively on your GitHub profile.</i>
+I enjoy understanding how software works internally, solving programming problems, and building practical applications.
 
-</div>---
+My technical interests include:
 
-✦ Inspiration
+- C programming and system-level development.
+- Linux operating systems and command-line tools.
+- Computer networking and communication protocols.
+- Process management, inter-process communication (IPC), and sockets.
+- Python scripting and automation.
+- Debugging, problem-solving, and software development fundamentals.
 
-<div align="center">“Great things are done by a series of small things brought together.”
+Currently strengthening my foundations in systems software, networking technologies, and Linux-based development environments.
 
-<br><sub>— Vincent van Gogh</sub>
+My goal is to grow as a Software Engineer and contribute to reliable, scalable, and high-performance software systems.
 
-</div>---
+---
 
-"BUILDING"
+🛠️ Technical Skills
 
-<div align="center">┌─────────────────────────────────────────────┐
-│                                             │
-│        BUILD • LEARN • ITERATE              │
-│                                             │
-│     Turning ideas into working solutions.   │
-│                                             │
-└─────────────────────────────────────────────┘
+Programming Languages
 
-</div>---
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>Operating Systems & System Programming
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&gradient=4361EE,7B2CBF" width="100%"/><br><b>Happy Coding 🚀</b>
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>- Linux command-line operations
+- Processes and process creation ("fork", "exec")
+- Signals and process management
+- Pipes and file descriptors
+- Socket programming
+- Memory management fundamentals
+- Shell scripting fundamentals
 
-</div>
+Computer Networking
+
+- OSI and TCP/IP models
+- TCP and UDP
+- IPv4 addressing and subnetting
+- Ethernet and ARP
+- ICMP
+- Layer 2 switching and Layer 3 routing fundamentals
+- OSPF and BGP fundamentals
+
+Development & Debugging Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCC-555555?style=for-the-badge"/>
+</p>Core Computer Science
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating System Concepts
+- Database Management Systems
+- Software Development Fundamentals
+
+---
+
+🚀 Featured Projects
+
+1. Network Packet Sniffer
+
+C | Linux | Raw Sockets | Computer Networking
+
+"View Project on GitHub" (https://github.com/dishagowda145/packet-sniffer)
+
+- Developed a command-line packet sniffer using Linux AF_PACKET raw sockets.
+- Captures and parses Ethernet, ARP, IPv4, TCP, UDP, and ICMP packets.
+- Implemented filtering based on protocol, IP address, and port.
+- Added hexadecimal packet inspection and protocol-wise packet statistics.
+- Implemented header bounds checks for safer packet parsing.
+- Tested packet capture using network traffic generated through ping and curl.
+
+Key Learning: Socket programming, packet structures, network protocols, and low-level network communication.
+
+2. Mini Unix Shell
+
+C | Linux | Process Management | IPC
+
+"View Project on GitHub" (https://github.com/dishagowda145/mini-shell)
+
+- Developed a command-line Unix shell using C.
+- Implemented process creation and execution using "fork()", "execvp()", and "wait()".
+- Supported multi-stage pipes and input/output redirection.
+- Implemented background job execution and built-in commands such as "cd" and "exit".
+- Added signal handling for Ctrl+C.
+- Managed file descriptors and background processes to prevent zombie processes.
+- Used GDB for debugging and troubleshooting.
+
+Key Learning: Linux system calls, process management, signals, pipes, and inter-process communication.
+
+---
+
+🎓 Education
+
+Bachelor of Computer Applications (BCA)
+East West College of Management, Bengaluru
+2023 – 2026 | Bangalore University
+
+Pre-University Course (PUC)
+East West PU College, Bengaluru
+2020 – 2022
+
+---
+
+📚 Current Learning Focus
+
+- Strengthening C programming and problem-solving.
+- Exploring Linux system programming.
+- Understanding networking protocols and packet communication.
+- Learning operating system fundamentals.
+- Practising debugging and writing efficient code.
+- Exploring software engineering practices and system-level development.
+
+---
+
+📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishagowda145&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishagowda145&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=dishagowda145&theme=tokyonight&hide_border=true"/>
+</p>---
+
+🤝 Let's Connect
+
+I am interested in opportunities involving software engineering, C programming, Linux, networking, and system software development.
+
+Feel free to connect with me!
+
+- LinkedIn: "Disha A" (https://www.linkedin.com/in/disha-a-85b92934b/)
+- GitHub: "dishagowda145" (https://github.com/dishagowda145)
+- Email: dishagowda145@gmail.com
+
+---
+
+<p align="center">
+  <b>BUILD • LEARN • DEBUG • IMPROVE</b>
+  <br/>
+  <i>Building strong foundations, one line of code at a time.</i>
+  <br/><br/>
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
