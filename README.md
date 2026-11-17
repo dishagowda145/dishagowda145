@@ -1,6 +1,6 @@
 👩‍💻 DISHA A
 
-Aspiring Software Engineer | C • Linux • Computer Networking • Python
+Software Development Engineer | C, C++, Python | Data Structures & Algorithms | Linux Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Reliable+Software+Systems;Exploring+Linux+and+System+Programming;Learning+Computer+Networking;Turning+Logic+Into+Working+Solutions" />
