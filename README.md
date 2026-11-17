@@ -18,7 +18,7 @@ Software Development Engineer | C, C++, Python | Data Structures & Algorithms | 
 
 👋 About Me
 
-I am a BCA graduate from Bengaluru, India, interested in software engineering, system programming, and computer networking.
+I am a BCA graduate from Bengaluru, India, interested in software development, software engineering, system programming, and computer networking.
 
 I enjoy understanding how software works internally, solving programming problems, and building practical applications.
 
