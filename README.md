@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/disha-a-85b92934b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dishagowda145@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dishagowda145?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="YOUR_FIGMA_LINK"><img src="https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
 ---
@@ -24,6 +25,7 @@ I'm a 2026 BCA graduate who enjoys building software that is *simple to use, saf
 - 💼 Interned as a *Python Full Stack Developer*: Django, REST APIs and SQL in an agile team
 - 🐞 Fixed production bugs by reading logs, finding the root cause and shipping the fix through Git
 - ⚛️ Growing into *front-end engineering* with React and JavaScript
+- 🎨 I review mockups in *Figma* and build the UI to match them exactly
 - 🔐 Careful about input validation, parameterised queries and access control
 - 📝 I document what I build so teammates can pick it up quickly
 
@@ -48,6 +50,11 @@ I'm a 2026 BCA graduate who enjoys building software that is *simple to use, saf
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+*Design*
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 *Systems & Tools*
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -65,23 +72,37 @@ I'm a 2026 BCA graduate who enjoys building software that is *simple to use, saf
 ## 🚀 Featured Projects
 
 ### 1. [Bug Tracker Dashboard](https://github.com/dishagowda145/bug-tracker-dashboard)
-React JavaScript Flask REST API SQLite unittest GitHub Actions
+React JavaScript Flask REST API SQLite unittest GitHub Actions Figma
+
+[
+
+![Figma design](https://img.shields.io/badge/Figma-View_design-F24E1E?logo=figma&logoColor=white)
+
+](YOUR_FIGMA_LINK_BUG_TRACKER)
 
 A full-stack app where teams sign in, report bugs, assign them and track progress on a dashboard. Admins can assign and delete bugs; users update their own or assigned bugs.
 
 - 🔐 Hashed passwords, expiring tokens, parameterised SQL, input validation and server-side role checks
 - 📊 Dashboard with status cards (Open, In progress, Resolved), filters and priority badges
 - ✅ 10 unit tests (including a SQL-injection test) running in CI on every push
+- 🎨 Designed in Figma, then built to match the mockup at desktop and mobile widths ([view design](YOUR_FIGMA_LINK_BUG_TRACKER))
 - 📝 Technical design doc, user guide and API reference
 
 ### 2. [Network Device Monitor](https://github.com/dishagowda145/network-device-monitor)
-React JavaScript Flask REST API SQLite unittest GitHub Actions
+React JavaScript Flask REST API SQLite unittest GitHub Actions Figma
+
+[
+
+![Figma design](https://img.shields.io/badge/Figma-View_design-F24E1E?logo=figma&logoColor=white)
+
+](YOUR_FIGMA_LINK_DEVICE_MONITOR)
 
 A dashboard that checks whether devices or websites are reachable, shows live up/down status and response times, and raises alerts when a device goes down or recovers.
 
 - ⚡ React dashboard backed by a Flask REST API (7 endpoints) with SQL history
 - 🔁 Background monitor runs TCP checks every 30 seconds and alerts only on state change
 - 🔐 Input validation, parameterised queries, timeouts and protection against server-side request forgery (SSRF)
+- 🎨 Designed in Figma, then built to match the mockup at desktop and mobile widths ([view design](YOUR_FIGMA_LINK_DEVICE_MONITOR))
 - ✅ 13 unit tests using a real local TCP server, running in CI
 
 ---
@@ -106,7 +127,7 @@ A dashboard that checks whether devices or websites are reachable, shows live up
 ## 📚 Currently Learning
 
 - Building more with React and modern JavaScript
-- Turning design mockups into accurate, responsive UIs
+- Turning Figma mockups into pixel-accurate, responsive UIs
 - Writing stronger tests and clearer technical documentation
 
 ---
