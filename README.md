@@ -24,7 +24,7 @@ I'm a 2026 BCA graduate who enjoys building software that is *simple to use, saf
 - 💼 Interned as a *Python Full Stack Developer*: Django, REST APIs and SQL in an agile team
 - 🐞 Fixed production bugs by reading logs, finding the root cause and shipping the fix through Git
 - ⚛️ Growing into *front-end engineering* with React and JavaScript
-- 🔐 Careful about input validation, parameterised queries and bounds checking
+- 🔐 Careful about input validation, parameterised queries and access control
 - 📝 I document what I build so teammates can pick it up quickly
 
 ---
@@ -58,24 +58,31 @@ I'm a 2026 BCA graduate who enjoys building software that is *simple to use, saf
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-*Also:* REST APIs • Unit testing • Agile • Debugging (GDB, PDB) • Data Structures & Algorithms • Computer Networks
+*Also:* REST APIs • Unit testing • CI (GitHub Actions) • Agile • Debugging (GDB, PDB) • Data Structures & Algorithms • Computer Networks
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [Network Device Monitor](https://github.com/dishagowda145/network-device-monitor)
-React JavaScript Flask REST API SQLite unittest
+### 1. [Bug Tracker Dashboard](https://github.com/dishagowda145/bug-tracker-dashboard)
+React JavaScript Flask REST API SQLite unittest GitHub Actions
+
+A full-stack app where teams sign in, report bugs, assign them and track progress on a dashboard. Admins can assign and delete bugs; users update their own or assigned bugs.
+
+- 🔐 Hashed passwords, expiring tokens, parameterised SQL, input validation and server-side role checks
+- 📊 Dashboard with status cards (Open, In progress, Resolved), filters and priority badges
+- ✅ 10 unit tests (including a SQL-injection test) running in CI on every push
+- 📝 Technical design doc, user guide and API reference
+
+### 2. [Network Device Monitor](https://github.com/dishagowda145/network-device-monitor)
+React JavaScript Flask REST API SQLite unittest GitHub Actions
 
 A dashboard that checks whether devices or websites are reachable, shows live up/down status and response times, and raises alerts when a device goes down or recovers.
 
 - ⚡ React dashboard backed by a Flask REST API (7 endpoints) with SQL history
-- 🔁 Background monitor runs TCP checks every 30 seconds and alerts on state change
-- 🔐 Input validation, parameterised queries, duplicate protection and timeouts
-- ✅ Unit tests using a real local TCP server, plus a full README
-
-### 2. [Bug Tracker Dashboard](https://github.com/dishagowda145/bug-tracker-dashboard)
-A dashboard to log, view and manage software bugs with a clean, easy-to-scan interface.
+- 🔁 Background monitor runs TCP checks every 30 seconds and alerts only on state change
+- 🔐 Input validation, parameterised queries, timeouts and protection against server-side request forgery (SSRF)
+- ✅ 13 unit tests using a real local TCP server, running in CI
 
 ---
 
