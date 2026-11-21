@@ -139,7 +139,7 @@ Checks whether devices or websites are reachable, shows live up/down status and 
 
 I'm looking for **entry-level Software Engineer roles** where I can build user-friendly products and learn from a strong team.
 
-📧 [dishagowda145@gmail.com](mailto:dishagowda145@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/disha-a-85b92934b/)
+📧 [dishagowda154@gmail.com](mailto:dishagowda154@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/disha-a-85b92934b/)
 
 <p align="center"><i>Build • Learn • Debug • Improve</i></p>
 
